@@ -1,0 +1,2 @@
+Line 1: Base content
+Line 2: Added in rebase-b (conflicting)
